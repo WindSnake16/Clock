@@ -1,5 +1,6 @@
 # Clock
 ![Capture](https://user-images.githubusercontent.com/87789953/226056493-c4ebd3f9-0c43-415a-92ed-2fc93b31c05e.PNG)
+
 A simple clock made with Python.
 
 
